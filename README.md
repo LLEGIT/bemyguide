@@ -38,9 +38,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Preview
-<img src="[administration](https://github.com/LLEGIT/bemyguide/assets/83280298/a154e3cf-231a-42d7-9902-5fd29d2c70fe)" width="33%"></img>
-<img src="[authentication](https://github.com/LLEGIT/bemyguide/assets/83280298/660088d8-4fc2-49a0-9d8d-f38491feea80)" width="33%"></img> 
-<img src="[destination](https://github.com/LLEGIT/bemyguide/assets/83280298/b0a74814-c033-4a45-ba29-89d31952ba68)" width="33%"></img> 
-<img src="[homepage](https://github.com/LLEGIT/bemyguide/assets/83280298/7c0da8ec-be0a-4818-a57a-463ebcdad87f)" width="33%"></img> 
-<img src="[profile](https://github.com/LLEGIT/bemyguide/assets/83280298/54b74609-98da-4c99-93f9-a180f499ed5d)" width="33%"></img> 
-<img src="[trips](https://github.com/LLEGIT/bemyguide/assets/83280298/92232875-4c33-4011-a0f6-23963d0b943f)" width="33%"></img> 
+<img src="https://github.com/LLEGIT/bemyguide/assets/83280298/a154e3cf-231a-42d7-9902-5fd29d2c70fe" width="33%"></img>
+<img src="https://github.com/LLEGIT/bemyguide/assets/83280298/660088d8-4fc2-49a0-9d8d-f38491feea80" width="33%"></img> 
+<img src="https://github.com/LLEGIT/bemyguide/assets/83280298/b0a74814-c033-4a45-ba29-89d31952ba68" width="33%"></img> 
+<img src="https://github.com/LLEGIT/bemyguide/assets/83280298/7c0da8ec-be0a-4818-a57a-463ebcdad87f" width="33%"></img> 
+<img src="https://github.com/LLEGIT/bemyguide/assets/83280298/54b74609-98da-4c99-93f9-a180f499ed5d" width="33%"></img> 
+<img src="https://github.com/LLEGIT/bemyguide/assets/83280298/92232875-4c33-4011-a0f6-23963d0b943f" width="33%"></img> 
